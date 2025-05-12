@@ -16,7 +16,7 @@ This is a command based project that allows a user to add , view , delete tasks 
 can be used by elderly people, students , etc
 
 2. Calculator 
-This is a GUI based calculator with features as to add, subtract, divide and even multiplication but simply allowing user to input numbers
+This is a CLI based calculator with features as to add, subtract, divide and even multiplication but simply allowing user to input numbers
 whereas the calculator will evaluate the arithmetic expressions and results will be genrated within seconds
 
 3. Pwd
